@@ -8,6 +8,9 @@ body {
     text-size-adjust: 20%;
     color: white;
 }
+#ps {
+    margin: 14px, 12px, 7px, 7px;
+}
 #r {
     text-align: center;
     text-size-adjust: 40%;
