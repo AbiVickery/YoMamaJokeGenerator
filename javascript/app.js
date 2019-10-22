@@ -1,4 +1,4 @@
-var ym1 = [
+var jokes = [
     "yo mama so fat, Thanos had to snap twice!",
     "yo mama so skinny, she uses her fingers as chop sticks!",
     "yo mama so tiny, she hanglides on a dorito!",
